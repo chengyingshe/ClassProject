@@ -1,0 +1,8 @@
+open3d==0.17.0
+visdom
+spconv-cu116==2.3.6
+numpy==1.24.1
+werkzeug==3.0.1
+ninja==1.11.1
+cumm-cu116==0.4.9
+numba==0.57.0

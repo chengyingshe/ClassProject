@@ -1,0 +1,6 @@
+__pycache__
+imgui.ini
+.polyscope.ini
+.vscode/settings.json
+upload/
+*.zip

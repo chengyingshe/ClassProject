@@ -1,0 +1,8 @@
+output/
+wandb/
+data/
+eval/
+models/
+*.vscode/
+*.txt
+*__pycache__/
